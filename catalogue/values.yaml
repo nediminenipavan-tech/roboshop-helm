@@ -2,4 +2,4 @@
   imageRepo: nediminenipavankumar/catalogue
   imageVersion: v1
  service:
-  servicePort: 8080 # default value
+  servicePort: 8080 # default value 
