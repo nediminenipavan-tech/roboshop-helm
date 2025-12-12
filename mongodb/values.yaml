@@ -1,5 +1,5 @@
 deployment:
-  imageRepo: nediminenipavankumar/mongodb
-  imageVersion: v1 
+  imageRepo: nediminenipavan/mongodb
+  imageVersion: v1
 service:
-  type ClusterIP
+  type: ClusterIP
