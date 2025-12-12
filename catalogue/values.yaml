@@ -1,0 +1,3 @@
+deployment:
+   imageRepo: nediminenipavankumar/catalogue
+   imageversion: v1 
