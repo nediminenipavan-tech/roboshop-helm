@@ -2,4 +2,4 @@ deployment:
    imageRepo: nediminenipavankumar/catalogue
    imageversion: v1 
 service:
-  targetPort: 8080 # default value 
+  servicePort: 8080 # default value 
